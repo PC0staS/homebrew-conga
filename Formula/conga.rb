@@ -3,8 +3,8 @@
 class Conga < Formula
   desc "Config generator CLI"
   homepage "https://github.com/pc0stas/conga"
-  url "https://github.com/pc0stas/conga/archive/v1.2.0.tar.gz"
-  sha256 "e5e7a915f7030231e4e63ee6ddcd1676682c5001ea84dea9e83da58026c4bd0e"
+  url "https://github.com/pc0stas/conga/archive/v1.2.1.tar.gz"
+  sha256 "27416f395d5650a43a8819c44047f1b0cb2d24e20c101aba96805b799631b77b"
   license "MIT"
 
   depends_on "go" => :build
